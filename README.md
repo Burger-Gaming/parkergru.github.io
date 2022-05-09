@@ -5,7 +5,7 @@ Unfamiliar? Well, this is a radio station that plays fnf radio 24/7 as long as p
 
 
 ![](impoopster.asx)
-
+<audio source="http://us3.internet-radio.com:8069/stream"> </audio>
 
 ![](index.html)
 
