@@ -1,0 +1,11 @@
+<asx version = "3.0">
+	<Title>Blueballsfm Radio</Title>
+	<Author>https://www.internet-radio.com</Author>
+	<Copyright>2022 Blueballsfm Radio</Copyright>
+
+	<entry>
+		<ref href="http://us3.internet-radio.com:8069/stream" />
+		<Title>Blueballsfm Radio</Title>
+		<Author>https://www.internet-radio.com</Author>
+	</entry>
+</asx>
